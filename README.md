@@ -10,3 +10,5 @@ As stated in Day 25's README of akshat-bajaj-python repo, this is a continuation
   - Difference between modules and packages
   - Different ways to import a module
   - Basic functions in random module
+  - Learnt about a new module named sys.
+  - Made a game as an exercise, combining random and sys modules.

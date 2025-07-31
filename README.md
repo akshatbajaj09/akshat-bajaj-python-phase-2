@@ -12,3 +12,6 @@ As stated in Day 25's README of akshat-bajaj-python repo, this is a continuation
   - Basic functions in random module
   - Learnt about a new module named sys.
   - Made a game as an exercise, combining random and sys modules.
+  - Explored Python Package Index(pypi), pip install and installed a module
+    named pyjokes to test.
+  - Explored virtual environments and their benefits.
